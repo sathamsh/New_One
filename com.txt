@@ -62,6 +62,7 @@ public class One {
 		}
 	    System.out.println(a);
 	    syso(a);
+	    syso(b);
 	}
 
 }
