@@ -61,6 +61,7 @@ public class One {
 			a.add(integer);	
 		}
 	    System.out.println(a);
+	    syso(a);
 	}
 
 }
